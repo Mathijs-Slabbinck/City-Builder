@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>City_Builder</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\bread.png" />
+    <None Remove="Assets\electricity.png" />
+    <None Remove="Assets\gold.png" />
+    <None Remove="Assets\goldore.png" />
+    <None Remove="Assets\hay.png" />
+    <None Remove="Assets\meat.png" />
+    <None Remove="Assets\money.png" />
+    <None Remove="Assets\planks.png" />
+    <None Remove="Assets\stone.png" />
+    <None Remove="Assets\trunks.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\bread.png" />
+    <Resource Include="Assets\electricity.png" />
+    <Resource Include="Assets\gold.png" />
+    <Resource Include="Assets\goldore.png" />
+    <Resource Include="Assets\hay.png" />
+    <Resource Include="Assets\iron.png" />
+    <Resource Include="Assets\meat.png" />
+    <Resource Include="Assets\money.png" />
+    <Resource Include="Assets\planks.png" />
+    <Resource Include="Assets\stone.png" />
+    <Resource Include="Assets\trunks.png" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\City_Builder.Core\City_Builder.Core.csproj" />
+	</ItemGroup>
+
+</Project>

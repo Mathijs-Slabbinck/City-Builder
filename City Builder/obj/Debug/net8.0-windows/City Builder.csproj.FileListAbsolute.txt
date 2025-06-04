@@ -1,0 +1,24 @@
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City Builder.exe
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City Builder.deps.json
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City Builder.runtimeconfig.json
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City Builder.dll
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City Builder.pdb
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder_MarkupCompile.cache
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder_MarkupCompile.lref
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.g.resources
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.AssemblyInfoInputs.cache
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.AssemblyInfo.cs
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.csproj.CoreCompileInputs.cache
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.dll
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\refint\City Builder.dll
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.pdb
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.genruntimeconfig.cache
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\ref\City Builder.dll
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City_Builder.Core.dll
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\bin\Debug\net8.0-windows\City_Builder.Core.pdb
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.csproj.AssemblyReference.cache
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Bui.557AF0BB.Up2Date
