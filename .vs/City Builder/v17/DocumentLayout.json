@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
               "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T14:15:18.334Z",
               "EditorCaption": ""
@@ -106,8 +106,7 @@
               "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\MainWindow.xaml",
               "RelativeToolTip": "City Builder\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T19:36:23.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T19:36:23.62Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "City_Builder.Core\\Classes\\Citizens\\WoodCutter.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:05:04.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T17:05:04.287Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAhwDgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:57:06.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:57:06.074Z"
             },
             {
               "$type": "Document",
@@ -145,8 +142,7 @@
               "RelativeToolTip": "City_Builder.Core\\Classes\\Buildings\\Building.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:18:33.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:18:33.147Z"
             },
             {
               "$type": "Document",
@@ -158,8 +154,7 @@
               "RelativeToolTip": "City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAhwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:47:22.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:47:22.506Z"
             },
             {
               "$type": "Document",
@@ -171,8 +166,7 @@
               "RelativeToolTip": "City_Builder.Core\\Classes\\City.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAlwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T16:30:27.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T16:30:27.915Z"
             },
             {
               "$type": "Document",
@@ -184,8 +178,7 @@
               "RelativeToolTip": "City_Builder.Core\\Classes\\Inventory.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAADwv18BAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:36:52.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:36:52.492Z"
             },
             {
               "$type": "Document",
@@ -197,8 +190,7 @@
               "RelativeToolTip": "City_Builder.Core\\Interfaces\\ICitizen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:28:38.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:28:38.825Z"
             },
             {
               "$type": "Document",
@@ -210,8 +202,7 @@
               "RelativeToolTip": "City_Builder.Core\\Enums\\Genders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:06:07.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T17:06:07.193Z"
             },
             {
               "$type": "Document",
@@ -223,8 +214,7 @@
               "RelativeToolTip": "City_Builder.Core\\Enums\\BuildingTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:41:47.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T14:41:47.563Z"
             },
             {
               "$type": "Document",
@@ -236,8 +226,7 @@
               "RelativeToolTip": "City_Builder.Core\\Interfaces\\IBuilding.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:28:27.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:28:27.43Z"
             },
             {
               "$type": "Document",
@@ -249,8 +238,7 @@
               "RelativeToolTip": "City_Builder.Core\\Enums\\JobTypes.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAtwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:20:35.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T14:20:35.721Z"
             },
             {
               "$type": "Document",
@@ -262,21 +250,19 @@
               "RelativeToolTip": "City_Builder.Core\\Interfaces\\IUpgradable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:28:51.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:28:51.233Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "City Builder",
+              "Title": "City Builder.csproj",
               "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\City Builder.csproj",
               "RelativeDocumentMoniker": "City Builder\\City Builder.csproj",
               "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\City Builder.csproj",
               "RelativeToolTip": "City Builder\\City Builder.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T13:08:58.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:08:58.865Z"
             },
             {
               "$type": "Document",
@@ -288,8 +274,7 @@
               "RelativeToolTip": "City Builder\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T19:36:20.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T19:36:20.988Z"
             }
           ]
         }
