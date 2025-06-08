@@ -165,102 +165,7 @@ namespace City_Builder.Core.Classes
             }
         }
 
-        public Inventory(int treeTrunks)
-        {
-            TreeTrunks = treeTrunks;
-        }
-
-        public Inventory(int treeTrunks, int planks) : this(treeTrunks)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones) : this(treeTrunks, planks)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron) : this(treeTrunks, planks, stones)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre) : this(treeTrunks, planks, stones, iron)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-            GoldOre = goldOre;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold) : this(treeTrunks, planks, stones, iron, goldOre)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-            GoldOre = goldOre;
-            Gold = gold;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold, int hay) : this(treeTrunks, planks, stones, iron, goldOre, gold)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-            GoldOre = goldOre;
-            Gold = gold;
-            Hay = hay;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold, int hay, int bread) : this(treeTrunks, planks, stones, iron, goldOre, gold, hay)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-            GoldOre = goldOre;
-            Gold = gold;
-            Hay = hay;
-            Bread = bread;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold, int hay, int bread, int meat) : this(treeTrunks, planks, stones, iron, goldOre, gold, hay, bread)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-            GoldOre = goldOre;
-            Gold = gold;
-            Hay = hay;
-            Bread = bread;
-            Meat = meat;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold, int hay, int bread, int meat, int electricity) : this(treeTrunks, planks, stones, iron, goldOre, gold, hay, bread, meat)
-        {
-            TreeTrunks = treeTrunks;
-            Planks = planks;
-            Stones = stones;
-            Iron = iron;
-            GoldOre = goldOre;
-            Gold = gold;
-            Hay = hay;
-            Bread = bread;
-            Meat = meat;
-            Electricity = electricity;
-        }
-
-        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold, int hay, int bread, int meat, int electricity, int money) : this(treeTrunks, planks, stones, iron, goldOre, gold, hay, bread, meat, electricity)
+        public Inventory(int treeTrunks, int planks, int stones, int iron, int goldOre, int gold, int hay, int bread, int meat, int electricity, int money)
         {
             TreeTrunks = treeTrunks;
             Planks = planks;
@@ -341,17 +246,17 @@ namespace City_Builder.Core.Classes
 
             if (Hay != 0)
             {
-                ResourcesString += "Goudstaven: " + Hay;
+                ResourcesString += "Graan: " + Hay;
             }
 
             if (Bread != 0)
             {
-                ResourcesString += "Goudstaven: " + Bread;
+                ResourcesString += "Brood: " + Bread;
             }
 
             if (Meat != 0)
             {
-                ResourcesString += "Goudstaven: " + Meat;
+                ResourcesString += "Vlees: " + Meat;
             }
 
             if (Electricity != 0)

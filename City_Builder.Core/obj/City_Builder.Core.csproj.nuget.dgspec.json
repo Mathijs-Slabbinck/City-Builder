@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\City_Builder.Core.csproj": {}
+    "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\City_Builder.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\City_Builder.Core.csproj": {
+    "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\City_Builder.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\City_Builder.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\City_Builder.Core.csproj",
         "projectName": "City_Builder.Core",
-        "projectPath": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\City_Builder.Core.csproj",
-        "packagesPath": "C:\\Users\\yolow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\obj\\",
+        "projectPath": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\City_Builder.Core.csproj",
+        "packagesPath": "C:\\Users\\Mathijs Slabbinck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yolow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mathijs Slabbinck\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

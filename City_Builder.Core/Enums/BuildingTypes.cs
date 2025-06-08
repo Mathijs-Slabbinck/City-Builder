@@ -35,6 +35,7 @@ namespace City_Builder.Core
         Containerpark,
         Laboratorium,
         Muur,
-        Kerncentrale
+        Kerncentrale,
+        Gym
     }
 }

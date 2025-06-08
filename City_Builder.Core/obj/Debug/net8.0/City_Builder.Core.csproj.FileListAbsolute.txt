@@ -9,3 +9,11 @@ C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City_Builder.Co
 C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City_Builder.Core\obj\Debug\net8.0\refint\City_Builder.Core.dll
 C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.pdb
 C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City_Builder.Core\obj\Debug\net8.0\ref\City_Builder.Core.dll
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.AssemblyInfoInputs.cache
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.AssemblyInfo.cs
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.sourcelink.json
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.dll
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\refint\City_Builder.Core.dll
+C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.pdb

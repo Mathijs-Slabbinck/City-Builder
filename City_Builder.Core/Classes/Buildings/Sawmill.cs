@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using City_Builder.Core.Classes.Citizens;
 
 namespace City_Builder.Core.Classes.Buildings
 {
@@ -10,6 +11,7 @@ namespace City_Builder.Core.Classes.Buildings
     {
         private readonly Inventory constructionCost;
         private Inventory upgradeCost;
+        private Citizen? assignedCitizen;
 
         public override Inventory ConstructionCost
         {
@@ -21,6 +23,16 @@ namespace City_Builder.Core.Classes.Buildings
             get { return upgradeCost; }
         }
 
+        public override Citizen AssignedCitizen
+        {
+            get { if (assignedCitizen == null)
+                {
+                    return new Citizen():
+                }
+            }
+            set { assignedCitizen = value; }
+        }
+
         public Sawmill()
         {
             // Inventory in order : treeTrunks, planks, stones, iron, goldOres, gold, hay, bread, meat, electricity, money
@@ -28,9 +40,9 @@ namespace City_Builder.Core.Classes.Buildings
             upgradeCost = new Inventory(5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 10);
         }
 
-        public override void LevelUp(Inventory cityInventory)
+        public override void LevelUp(City city)
         {
-            if (this.Level >= 5)
+            if (this.Level <= 5)
             {
                 // we create a multiplier based on the level of the building to increase the building cost every time
                 int multiplier = ((int)Math.Ceiling(Level * 1.5));
@@ -38,7 +50,7 @@ namespace City_Builder.Core.Classes.Buildings
                 // Inventory in order : treeTrunks, planks, stones, iron, goldOres, gold, hay, bread, meat, electricity, money
                 upgradeCost = new Inventory((multiplier*5), (multiplier*5), (multiplier*5), 0, 0, 0, 0, 0, 0, 0, (multiplier*10));
 
-                if(CheckIfEnoughResources(cityInventory, UpgradeCost))
+                if(city.CanAfford(UpgradeCost))
                 {
                     this.Level += 1;
                 }
@@ -46,7 +58,6 @@ namespace City_Builder.Core.Classes.Buildings
                 {
                     throw new ArgumentException("Je hebt niet genoeg grondstoffen!");
                 }
-                
             }
             else
             {
@@ -54,28 +65,28 @@ namespace City_Builder.Core.Classes.Buildings
             }
         }
 
-        public void Produce(City city)
+        public override void Produce(City city)
         {
             switch (this.Level)
             {
                 case 1:
-
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Perception) * 1;
                     break;
 
                 case 2:
-
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Perception) * 2;
                     break;
 
                 case 3:
-
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Perception) * 3;
                     break;
 
                 case 4:
-
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Perception) * 4;
                     break;
 
                 case 5:
-
+                    city.Resources.Planks +=(AssignedCitizen.Level + AssignedCitizen.Perception) *5;
                     break;
             }
         }

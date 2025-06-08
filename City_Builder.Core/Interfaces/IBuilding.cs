@@ -13,8 +13,8 @@ namespace City_Builder.Core.Interfaces
         BuildingTypes Name { get; }
         int Level { get; }
         Inventory ConstructionCost { get; }
-
-        void LevelUp(Inventory cityInventory);
+        void LevelUp(City city);
         string ToString();
+        public void Produce(City city);
     }
 }

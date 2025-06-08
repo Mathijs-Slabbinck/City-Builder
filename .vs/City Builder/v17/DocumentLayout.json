@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\",
+  "WorkspaceRootPath": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\citizens\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\classes\\citizens\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\citizens\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city builder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|solutionrelative:city builder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\citizens\\woodcutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\citizens\\woodcutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\buildings\\woodcuttershut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\classes\\buildings\\woodcuttershut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\buildings\\woodcuttershut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\buildings\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\buildings\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\classes\\buildings\\sawmill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\classes\\buildings\\sawmill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\buildings\\sawmill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\interfaces\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\interfaces\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\classes\\buildings\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\buildings\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\enums\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\enums\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\classes\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\interfaces\\ibuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\interfaces\\ibuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\classes\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\enums\\buildingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\enums\\buildingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\enums\\jobtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\enums\\jobtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\enums\\jobtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city builder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|solutionrelative:city builder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\enums\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\enums\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city_builder.core\\interfaces\\iupgradable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\enums\\citizenstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\enums\\citizenstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\enums\\buildingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\enums\\buildingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\interfaces\\ibuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\interfaces\\ibuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\interfaces\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\interfaces\\icitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city_builder.core\\interfaces\\iupgradable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0310A34E-6688-48CF-9DE3-0CB757422E50}|City_Builder.Core\\City_Builder.Core.csproj|solutionrelative:city_builder.core\\interfaces\\iupgradable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|c:\\users\\yolow\\desktop\\eigen projecten\\city builder\\city builder\\city builder\\city builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city builder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|solutionrelative:city builder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city builder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|solutionrelative:city builder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|c:\\users\\mathijs slabbinck\\desktop\\codeprojects\\citybuilder\\city-builder\\city builder\\city builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{275C6914-E38B-4ECE-BF15-8BA95122F4CE}|City Builder\\City Builder.csproj|solutionrelative:city builder\\city builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -74,63 +74,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Citizen.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\Citizens\\Citizen.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIBAAAAAAAAAAAkwB4BAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T14:15:18.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "City Builder\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\MainWindow.xaml",
-              "RelativeToolTip": "City Builder\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T19:36:23.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WoodCutter.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Citizens\\WoodCutter.cs",
-              "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Citizens\\WoodCutter.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Citizens\\WoodCutter.cs",
-              "RelativeToolTip": "City_Builder.Core\\Classes\\Citizens\\WoodCutter.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:05:04.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Sawmill.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\Buildings\\Sawmill.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwDgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:57:06.074Z",
               "EditorCaption": ""
@@ -138,25 +105,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "JobTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\JobTypes.cs",
+              "RelativeDocumentMoniker": "City_Builder.Core\\Enums\\JobTypes.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\JobTypes.cs",
+              "RelativeToolTip": "City_Builder.Core\\Enums\\JobTypes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:20:35.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Building.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Buildings\\Building.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Buildings\\Building.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Buildings\\Building.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Buildings\\Building.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Buildings\\Building.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\Buildings\\Building.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:18:33.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "WoodcuttersHut.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\Buildings\\WoodcuttersHut.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:47:22.506Z",
               "EditorCaption": ""
@@ -165,48 +145,35 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\City.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\City.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\City.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\City.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\City.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\City.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwC8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T16:30:27.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Inventory.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Classes\\Inventory.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Classes\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Classes\\Inventory.cs",
               "RelativeToolTip": "City_Builder.Core\\Classes\\Inventory.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAADwv18BAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwLAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:36:52.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICitizen.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Interfaces\\ICitizen.cs",
-              "RelativeDocumentMoniker": "City_Builder.Core\\Interfaces\\ICitizen.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Interfaces\\ICitizen.cs",
-              "RelativeToolTip": "City_Builder.Core\\Interfaces\\ICitizen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:28:38.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Genders.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Enums\\Genders.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\Genders.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Enums\\Genders.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Enums\\Genders.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\Genders.cs",
               "RelativeToolTip": "City_Builder.Core\\Enums\\Genders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,13 +182,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "CitizenStats.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\CitizenStats.cs",
+              "RelativeDocumentMoniker": "City_Builder.Core\\Enums\\CitizenStats.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\CitizenStats.cs",
+              "RelativeToolTip": "City_Builder.Core\\Enums\\CitizenStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:16:40.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BuildingTypes.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Enums\\BuildingTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\BuildingTypes.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Enums\\BuildingTypes.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Enums\\BuildingTypes.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Enums\\BuildingTypes.cs",
               "RelativeToolTip": "City_Builder.Core\\Enums\\BuildingTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T14:41:47.563Z",
               "EditorCaption": ""
@@ -230,35 +210,35 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IBuilding.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Interfaces\\IBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Interfaces\\IBuilding.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Interfaces\\IBuilding.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Interfaces\\IBuilding.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Interfaces\\IBuilding.cs",
               "RelativeToolTip": "City_Builder.Core\\Interfaces\\IBuilding.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:28:27.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "JobTypes.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Enums\\JobTypes.cs",
-              "RelativeDocumentMoniker": "City_Builder.Core\\Enums\\JobTypes.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Enums\\JobTypes.cs",
-              "RelativeToolTip": "City_Builder.Core\\Enums\\JobTypes.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAtwCIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ICitizen.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Interfaces\\ICitizen.cs",
+              "RelativeDocumentMoniker": "City_Builder.Core\\Interfaces\\ICitizen.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Interfaces\\ICitizen.cs",
+              "RelativeToolTip": "City_Builder.Core\\Interfaces\\ICitizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:20:35.721Z",
+              "WhenOpened": "2025-06-04T13:28:38.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "IUpgradable.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Interfaces\\IUpgradable.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Interfaces\\IUpgradable.cs",
               "RelativeDocumentMoniker": "City_Builder.Core\\Interfaces\\IUpgradable.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City_Builder.Core\\Interfaces\\IUpgradable.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City_Builder.Core\\Interfaces\\IUpgradable.cs",
               "RelativeToolTip": "City_Builder.Core\\Interfaces\\IUpgradable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,29 +247,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "City Builder",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\City Builder.csproj",
-              "RelativeDocumentMoniker": "City Builder\\City Builder.csproj",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\City Builder.csproj",
-              "RelativeToolTip": "City Builder\\City Builder.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T13:08:58.865Z",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City Builder\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "City Builder\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City Builder\\MainWindow.xaml",
+              "RelativeToolTip": "City Builder\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T19:36:23.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
+              "Title": "City Builder.csproj",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City Builder\\City Builder.csproj",
+              "RelativeDocumentMoniker": "City Builder\\City Builder.csproj",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City Builder\\City Builder.csproj",
+              "RelativeToolTip": "City Builder\\City Builder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T13:08:58.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City Builder\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "City Builder\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\yolow\\Desktop\\eigen projecten\\city builder\\City Builder\\City Builder\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mathijs Slabbinck\\Desktop\\codeProjects\\CityBuilder\\City-Builder\\City Builder\\MainWindow.xaml.cs",
               "RelativeToolTip": "City Builder\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T19:36:20.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T19:36:20.988Z"
             }
           ]
         }

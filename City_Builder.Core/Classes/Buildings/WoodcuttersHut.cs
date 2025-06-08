@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using City_Builder.Core.Classes.Citizens;
 
 namespace City_Builder.Core.Classes.Buildings
 {
-    public class WoodcuttersHut : Building  
+    public class WoodcuttersHut : Building
     {
         private readonly Inventory constructionCost;
         private Inventory upgradeCost;
+        private Citizen assignedCitizen;
 
         public override Inventory ConstructionCost
         {
@@ -21,16 +23,22 @@ namespace City_Builder.Core.Classes.Buildings
             get { return upgradeCost; }
         }
 
-        public WoodcuttersHut()
+        public override Citizen AssignedCitizen
         {
-            // Inventory in order : treeTrunks, planks, stones, iron, goldOres, gold, electricity, money
-            constructionCost = new Inventory(0, 0, 0, 0, 0, 0, 0, 0);
-            upgradeCost = new Inventory(10, 5, 10, 0, 0, 0, 0, 10);
+            get { return assignedCitizen; }
+            set { assignedCitizen = value; }
         }
 
-        public override void LevelUp(Inventory cityInventory)
+        public WoodcuttersHut()
         {
-            if (this.Level >= 5)
+            // Inventory in order : treeTrunks, planks, stones, iron, goldOres, gold, hay, bread, meat electricity, money
+            constructionCost = new Inventory(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+            upgradeCost = new Inventory(10, 5, 10, 0, 0, 0, 0, 0, 0, 0, 10);
+        }
+
+        public override void LevelUp(City city)
+        {
+            if (this.Level <= 5)
             {
                 // we create a multiplier based on the level of the building to increase the building cost every time
                 int multiplier = ((int)Math.Ceiling(Level * 1.5));
@@ -38,7 +46,7 @@ namespace City_Builder.Core.Classes.Buildings
                 // Inventory in order : treeTrunks, planks, stones, iron, goldOres, gold, hay, bread, meat, electricity, money
                 upgradeCost = new Inventory((multiplier * 5), (multiplier * 5), (multiplier * 5), 0, 0, 0, 0, 0, 0, 0, (multiplier * 10));
 
-                if (CheckIfEnoughResources(cityInventory, UpgradeCost))
+                if (city.CanAfford(UpgradeCost))
                 {
                     this.Level += 1;
                 }
@@ -51,6 +59,52 @@ namespace City_Builder.Core.Classes.Buildings
             else
             {
                 throw new ArgumentException("Dit gebouw is al max level!");
+            }
+        }
+
+        public override void Produce(City city)
+        {
+            switch (this.Level)
+            {
+                case 1:
+                    if(city.Resources.TreeTrunks < 1)
+                    {
+                        throw new ArgumentException("Je hebt niet genoeg boomstammen om te produceren!");
+                    }
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Strength) * 1;
+                    break;
+
+                case 2:
+                    if (city.Resources.TreeTrunks < 1)
+                    {
+                        throw new ArgumentException("Je hebt niet genoeg boomstammen om te produceren!");
+                    }
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Strength) * 2;
+                    break;
+
+                case 3:
+                    if (city.Resources.TreeTrunks < 2)
+                    {
+                        throw new ArgumentException("Je hebt niet genoeg boomstammen om te produceren!");
+                    }
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Strength) * 3;
+                    break;
+
+                case 4:
+                    if (city.Resources.TreeTrunks < 2)
+                    {
+                        throw new ArgumentException("Je hebt niet genoeg boomstammen om te produceren!");
+                    }
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Strength) * 4;
+                    break;
+
+                case 5:
+                    if (city.Resources.TreeTrunks < 2)
+                    {
+                        throw new ArgumentException("Je hebt niet genoeg boomstammen om te produceren!");
+                    }
+                    city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Strength) * 5;
+                    break;
             }
         }
     }
