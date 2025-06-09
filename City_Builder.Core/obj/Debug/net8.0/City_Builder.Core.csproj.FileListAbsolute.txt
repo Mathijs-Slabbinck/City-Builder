@@ -17,3 +17,4 @@ C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Bu
 C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.dll
 C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\refint\City_Builder.Core.dll
 C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.pdb
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City_Builder.Core\obj\Debug\net8.0\City_Builder.Core.sourcelink.json

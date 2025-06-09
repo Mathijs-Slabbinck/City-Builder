@@ -47,3 +47,4 @@ C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City Bu
 C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City Builder\obj\Debug\net8.0-windows\City Builder.pdb
 C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City Builder\obj\Debug\net8.0-windows\City Builder.genruntimeconfig.cache
 C:\Users\Mathijs Slabbinck\Desktop\codeProjects\CityBuilder\City-Builder\City Builder\obj\Debug\net8.0-windows\ref\City Builder.dll
+C:\Users\yolow\Desktop\eigen projecten\city builder\City Builder\City Builder\obj\Debug\net8.0-windows\City Builder.sourcelink.json

@@ -16,5 +16,7 @@ namespace City_Builder.Core.Interfaces
         void LevelUp(City city);
         string ToString();
         public void Produce(City city);
+        public string BuildingCostInfo { get; }
+        public string BuildingInfo { get; }
     }
 }

@@ -12,7 +12,8 @@
             <ColumnDefinition Width="40*"/>
             <ColumnDefinition Width="40*"/>
         </Grid.ColumnDefinitions>
-        <Grid Grid.Row="0">
+        <Border BorderBrush="black" BorderThickness="4 4 0 4">
+        <Grid x:Name="grdResourceMenu" Grid.Row="0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="10*"/>
                 <RowDefinition Height="10*"/>
@@ -26,162 +27,184 @@
                 <RowDefinition Height="10*"/>
                 <RowDefinition Height="10*"/>
             </Grid.RowDefinitions>
-            <Grid Grid.Row="0">
+            <Border Grid.Row="0" BorderBrush="Black" BorderThickness="0 0 0 1">
+            <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="50*"/>
                     <ColumnDefinition Width="50*"/>
                 </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/trunks.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblTrunks" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+                <Image Grid.Column="0" Source="/Assets/trunks.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                    <Label x:Name="lblTrunks" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
             </Grid>
-            <Grid Grid.Row="1">
+            </Border>
+
+            <Border BorderBrush="Black" BorderThickness="0 0 0 1" Grid.Row="1">
+                <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="50*"/>
                     <ColumnDefinition Width="50*"/>
                 </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/planks.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Image Grid.Column="0" Source="/Assets/planks.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
                 <Label x:Name="lblPlanks" Grid.Column="1" VerticalAlignment="Center"  HorizontalAlignment="Left" FontSize="20"></Label>
             </Grid>
-            <Grid Grid.Row="2">
+            </Border>
+
+            <Border Grid.Row="2" BorderBrush="black" BorderThickness="0 0 0 1">
+            <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="50*"/>
                     <ColumnDefinition Width="50*"/>
                 </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/stone.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblStone" Grid.Column="1" VerticalAlignment="Center"  HorizontalAlignment="Left" FontSize="20"></Label>
+                <Image Grid.Column="0" Source="/Assets/stone.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Label x:Name="lblStones" Grid.Column="1" VerticalAlignment="Center"  HorizontalAlignment="Left" FontSize="20"></Label>
             </Grid>
-            <Grid Grid.Row="3">
+            </Border>
+
+            <Border Grid.Row="3" BorderBrush="black" BorderThickness="0 0 0 1">
+            <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="50*"/>
                     <ColumnDefinition Width="50*"/>
                 </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/iron.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Image Grid.Column="0" Source="/Assets/iron.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
                 <Label x:Name="lblIron" Grid.Column="1" VerticalAlignment="Center"  HorizontalAlignment="Left" FontSize="20"></Label>
             </Grid>
+            </Border>
 
+            <Border Grid.Row="4" BorderBrush="Black" BorderThickness="0 0 0 1">
+                <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Source="/Assets/goldore.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Label x:Name="lblGoldOre" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+            </Grid>
+            </Border>
+
+            <Border Grid.Row="5" BorderBrush="black" BorderThickness="0 0 0 1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50*"/>
+                        <ColumnDefinition Width="50*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/Assets/gold.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                    <Label x:Name="lblGold" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="6" BorderBrush="Black" BorderThickness="0 0 0 1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50*"/>
+                        <ColumnDefinition Width="50*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/Assets/hay.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                    <Label x:Name="lblHay" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="7" BorderBrush="black" BorderThickness="0 0 0 1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50*"/>
+                        <ColumnDefinition Width="50*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/Assets/bread.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                    <Label x:Name="lblBread" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="8" BorderBrush="black" BorderThickness="0 0 0 1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Source="/Assets/meat.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Label x:Name="lblMeat" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+            </Grid>
+            </Border>
+
+            <Border Grid.Row="9" BorderBrush="black" BorderThickness="0 0 0 1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Source="/Assets/electricity.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Label x:Name="lblElectricity" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+            </Grid>
+            </Border>
+
+            <Border Grid.Row="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Source="/Assets/money.png" Height="35" Width="35" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
+                <Label x:Name="lblMoney" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
+            </Grid>
+            </Border>
+        </Grid>
+        </Border>
+        <Grid x:Name="grdBuildings" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="13*" />
+                <RowDefinition Height="30*"/>
+                <RowDefinition Height="13*" />
+                <RowDefinition Height="30*"/>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="13*"/>
+                <RowDefinition Height="30*"/>
+                <RowDefinition Height="13*"/>
+            </Grid.RowDefinitions>
+            <Border Background="LightGray" Grid.Row="0" Grid.RowSpan="2" BorderBrush="black" BorderThickness="4 4 4 0">
+            </Border>
+            <Label Grid.Row="0" Content="Bouw Gebouwen:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
+            <ListBox x:Name="lstBuildBuildings" Grid.Row="1" Background="Transparent" BorderBrush="Black" BorderThickness="2 1 2 4" SelectionChanged="LstBuildBuildings_SelectionChanged"></ListBox>
+
+            <Border Background="#a9a9a9" Grid.Row="2" Grid.RowSpan="3" BorderBrush="black" BorderThickness="4 0 4 4">
+            </Border>
+            <Label Grid.Row="2" Content="Mijn Gebouwen:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
+            <ListBox x:Name="lstOwnedBuildings" Grid.Row="3" Background="Transparent" BorderBrush="Black" BorderThickness="0 1 0 0"></ListBox>
             <Grid Grid.Row="4">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="50*"/>
                     <ColumnDefinition Width="50*"/>
                 </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/goldore.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblGoldOre" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-
-            <Grid Grid.Row="5">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/gold.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblGold" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-
-            <Grid Grid.Row="6">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/hay.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblHay" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-
-            <Grid Grid.Row="7">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/bread.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblBread" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-
-            <Grid Grid.Row="8">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/meat.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblMeat" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-
-            <Grid Grid.Row="9">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/electricity.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblElectricity" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-            <Grid Grid.Row="10">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Image Grid.Column="0" Source="/Assets/money.png" Height="40" Width="40" HorizontalAlignment="left" Margin="10, 0, 0, 0"/>
-                <Label x:Name="lblMoney" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="20"></Label>
-            </Grid>
-        </Grid>
-        <Grid Grid.Column="1">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="10*" />
-                <RowDefinition Height="30*"/>
-                <RowDefinition Height="10*" />
-                <RowDefinition Height="30*"/>
-                <RowDefinition Height="10*"/>
-                <RowDefinition Height="15*"/>
-                <RowDefinition Height="10*"/>
-                <RowDefinition Height="30*"/>
-
-            </Grid.RowDefinitions>
-            <Border Background="LightGray" Grid.Row="0" Grid.RowSpan="2">
-            </Border>
-            <Label Grid.Row="0" Content="Bouw Gebouwen:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
-            <ListBox x:Name="lstBuildBuildings" Grid.Row="1" Background="Transparent" BorderBrush="Black" BorderThickness="2"></ListBox>
-
-            <Border Background="#a9a9a9" Grid.Row="2" Grid.RowSpan="2">
-            </Border>
-            <Label Grid.Row="2" Content="Mijn Gebouwen:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
-            <ListBox x:Name="lstOwnedBuildings" Grid.Row="3" Background="Transparent" BorderBrush="Black" BorderThickness="2"></ListBox>
-
-            <Border Background="Lightgray" Grid.Row="4" Grid.RowSpan="2">
-            </Border>
-            <Label Grid.Row="4" Content="Produceer / Volgende Dag:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
-
-            <Grid Grid.Row="5">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                    <ColumnDefinition Width="50*"/>
-                </Grid.ColumnDefinitions>
-                <Border Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="2"></Border>
-                <Border Grid.Column="3" BorderBrush="Black" BorderThickness="2"></Border>
+                <Border Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="2 1 2 4"></Border>
+                <Border Grid.Column="3" BorderBrush="Black" BorderThickness="0 1 2 4"></Border>
                 <Button x:Name="btnProduce" Grid.Column="0" Content="PRODUCEER" Background="LightGreen" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" BorderBrush="Black"></Button>
                 <Button x:Name="btnUpgrade" Grid.Column="1" Content="UPGRADE" Background="Green" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" BorderBrush="Black"></Button>
-                <Button x:Name="btnNextDay" Grid.Column="2" Content="VOLGENDE DAG" Background="LightBlue" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" BorderBrush="Black"></Button>
+                <Button x:Name="btnProduce_Copy" Content="PRODUCEER" Background="LightGreen" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" BorderBrush="Black"/>
             </Grid>
-            <Border Background="#a9a9a9" Grid.Row="6" Grid.RowSpan="2">
+            <Border Background="LightGray" Grid.Row="5" Grid.RowSpan="3" BorderBrush="Black" BorderThickness="4 0 4 4">
             </Border>
-            <Label Grid.Row="6" Content="Info Gebouw:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
-            <ListBox x:Name="lstBuildingInfo" Grid.Row="7" Background="Transparent" BorderBrush="Black" BorderThickness="2"></ListBox>
-            <Rectangle Fill="Transparent" Grid.Row="7"></Rectangle>
+            <Label Grid.Row="5" Content="Info Gebouw:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15" BorderBrush="Black" BorderThickness="4 0 4 0"></Label>
+            <ListBox x:Name="lstBuildingInfo" Grid.Row="6" Background="Transparent" BorderBrush="Black" BorderThickness="4 1 4 1"></ListBox>
+            <Button x:Name="btnBuyBuilding" Content="PRODUCEER" Background="LightGreen" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" BorderBrush="Black" Grid.Row="7"/>
         </Grid>
+        
         <Grid Grid.Column="2">
             <Grid.RowDefinitions>
-                <RowDefinition Height="10*"/>
+                <RowDefinition Height="13*"/>
                 <RowDefinition Height="35*"/>
-                <RowDefinition Height="10*"/>
+                <RowDefinition Height="13*"/>
                 <RowDefinition Height="70*"/>
-                <RowDefinition Height="10*"/>
+                <RowDefinition Height="13*"/>
                 <RowDefinition Height="30*"/>
             </Grid.RowDefinitions>
 
-            <Border Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" Background="#a9a9a9"></Border>
-            <Label Grid.Row="0" Content="Inwonerslijst:" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
-            <ListBox Grid.Row="1" Background="Transparent" BorderBrush="Black" BorderThickness="2"></ListBox>
+            <Border x:Name="brdCitizenList" Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" Background="#a9a9a9" BorderBrush="Black" BorderThickness="4"></Border>
+            <Label Grid.Row="0" Content="Inwonerslijst:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
+            <ListBox x:Name="lstInhabitants" Grid.Row="1" Background="Transparent" BorderBrush="Black" BorderThickness="0 2 0 0" SelectionChanged="LstInhabitants_SelectionChanged"></ListBox>
 
-                <Border Grid.Column="2" Grid.Row="2" Grid.RowSpan="2" Background="LightGray"></Border>
-                <Label Grid.Row="2" Content="Inwoner Gegevens:" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="15"></Label>
-            <Grid Grid.Row="3">
+           <Border x:Name="brdCitizenInfo" Grid.Column="2" Grid.Row="2" Grid.RowSpan="2" Background="LightGray"></Border>
+            <Label Grid.Row="2" Content="Inwoner Gegevens:" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15" BorderBrush="Black" BorderThickness="5 0 5 0"></Label>
+            <Border Grid.Row="3" BorderBrush="Black" BorderThickness="4 0 4 4">
+               <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="10*"/>
                     <ColumnDefinition Width="15*"/>
@@ -197,33 +220,33 @@
                     <RowDefinition Height="30*"/>
                     <RowDefinition Height="30*"/>
                 </Grid.RowDefinitions>
-                <Border Grid.Row="0" Grid.RowSpan="8" Grid.Column="0" Grid.ColumnSpan="4" BorderBrush="Black" BorderThickness="2"></Border>
+                <Border Grid.Row="0" Grid.RowSpan="8" Grid.Column="0" Grid.ColumnSpan="4" BorderBrush="Black" BorderThickness="1"></Border>
                 
-                <Border Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                <Border Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0 0 0 1"></Border>
                 <Label Grid.Row="0" Content="Naam:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenName" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center"></Label>
 
-                <Border Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                <Border Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0 0 0 1"></Border>
                 <Label Grid.Row="1" Content="Gender:" HorizontalContentAlignment="Center"></Label>
-                <Label x:Name="lblCitizengender" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center"></Label>
+                <Label x:Name="lblCitizenGender" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center"></Label>
 
-                <Border Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
-                <Label Grid.Row="2" Grid.ColumnSpan="1" Content="Job:" HorizontalContentAlignment="Center"></Label>
-                <ComboBox x:Name="cmbCitizenJob" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"></ComboBox>
+               <Border Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0 0 0 1"></Border>
+                    <Label Grid.Row="2" Grid.ColumnSpan="1" Content="Job:" HorizontalContentAlignment="Center"></Label>
+                    <Label x:Name="lblCitizenJob" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center"></Label>
 
-                <Border Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                    <Border Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0 0 0 1"></Border>
                 <Label Grid.Row="3" Content="Leeftijd:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenAge" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center"></Label>
 
-                <Border Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                    <Border Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0 0 0 1"></Border>
                 <Label Grid.Row="4" Content="Blijheid:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenHappiness" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center"></Label>
 
-                <Border Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                    <Border Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0 0 0 1"></Border>
                 <Label Grid.Row="5" Content="Level:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenLvl" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Center"></Label>
 
-                <Border Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                    <Border Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="0"></Border>
                 <Label Grid.Row="6" Content="Energie:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenEnergy" Grid.Column="1" Grid.Row="6" HorizontalAlignment="Center"></Label>
 
@@ -241,35 +264,39 @@
                         <ColumnDefinition Width="70*"/>
                         <ColumnDefinition Width="30*"/>
                     </Grid.ColumnDefinitions>
-                <Border Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                        <Border Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 1"></Border>
                 <Label Grid.Row="0" Grid.Column="0" Content="Kracht:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenStrength" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left"></Label>
 
-                <Border Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                        <Border Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 1"></Border>
                 <Label Grid.Row="1" Grid.Column="0" Content="Perceptie:" HorizontalContentAlignment="Center"></Label>
-                <Label x:Name="lblCitizenPerception" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center"></Label>
+                <Label x:Name="lblCitizenPerception" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left"></Label>
 
-                 <Border Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                        <Border Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 1"></Border>
                  <Label Grid.Row="2" Grid.Column="0" Content="Uithouding:" HorizontalContentAlignment="Center"></Label>
-                 <Label x:Name="lblCitizenEndurance" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left"></Label>
+                 <Label x:Name="lblCitizenEndurance" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Left"></Label>
                     
-                <Border Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                <Border Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 1"></Border>
                 <Label Grid.Row="3" Grid.Column="0" Content="Charisma:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenCharisma" Grid.Column="3" Grid.Row="3" HorizontalAlignment="Left"></Label>
 
-                <Border Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                <Border Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 1"></Border>
                 <Label Grid.Row="4" Grid.Column="0" Content="Intelligentie:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenIntelligence" Grid.Column="4" Grid.Row="4" HorizontalAlignment="Left"></Label>
 
-                <Border Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                <Border Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 1"></Border>
                     <Label Grid.Row="5" Grid.Column="0" Content="Wendbaarheid:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenAgility" Grid.Column="5" Grid.Row="5" HorizontalAlignment="Left"></Label>
                     
-                <Border Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1"></Border>
+                <Border Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="1 0 0 0"></Border>
                 <Label Grid.Row="6" Grid.Column="0" Content="Geluk:" HorizontalContentAlignment="Center"></Label>
                 <Label x:Name="lblCitizenLuck" Grid.Column="6" Grid.Row="6" HorizontalAlignment="Left"></Label>
                 </Grid>
             </Grid>
+            </Border>
+            <Border Grid.Row="4" Grid.RowSpan="2" Background="#a9a9a9" BorderBrush="Black">
+                
+            </Border>
         </Grid>
     </Grid>
 </Window>

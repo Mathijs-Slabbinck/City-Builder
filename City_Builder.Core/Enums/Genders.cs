@@ -9,6 +9,7 @@ namespace City_Builder.Core.Enums
     public enum Genders
     {
         Male,
-        Female
+        Female,
+        None
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using City_Builder.Core.Classes.Citizens;
+using City_Builder.Core.Enums;
 
 namespace City_Builder.Core.Classes.Buildings
 {
@@ -12,6 +12,7 @@ namespace City_Builder.Core.Classes.Buildings
         private readonly Inventory constructionCost;
         private Inventory upgradeCost;
         private Citizen assignedCitizen;
+        private readonly string buildingInfo = "Dit gebouw zorgt ervoor dat je boomstammen kunt krijgen.";
 
         public override Inventory ConstructionCost
         {
@@ -25,8 +26,23 @@ namespace City_Builder.Core.Classes.Buildings
 
         public override Citizen AssignedCitizen
         {
-            get { return assignedCitizen; }
+            get
+            {
+                if (assignedCitizen == null)
+                {
+                    return new Citizen("No citizen assigned yet!", "", Genders.None, 0);
+                }
+                else
+                {
+                    return assignedCitizen;
+                }
+            }
             set { assignedCitizen = value; }
+        }
+
+        public override string BuildingInfo
+        {
+            get { return buildingInfo; }
         }
 
         public WoodcuttersHut()
@@ -106,6 +122,11 @@ namespace City_Builder.Core.Classes.Buildings
                     city.Resources.Planks += (AssignedCitizen.Level + AssignedCitizen.Strength) * 5;
                     break;
             }
+        }
+
+        public override string ToString()
+        {
+            return "houthakkershut";
         }
     }
 }

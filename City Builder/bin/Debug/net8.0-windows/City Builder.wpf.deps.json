@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "City Builder.wpf/1.0.0": {
+        "dependencies": {
+          "City_Builder.Core": "1.0.0"
+        },
+        "runtime": {
+          "City Builder.wpf.dll": {}
+        }
+      },
+      "City_Builder.Core/1.0.0": {
+        "runtime": {
+          "City_Builder.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "City Builder.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "City_Builder.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

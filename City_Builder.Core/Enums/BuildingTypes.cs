@@ -36,6 +36,7 @@ namespace City_Builder.Core
         Laboratorium,
         Muur,
         Kerncentrale,
-        Gym
+        Gym,
+        Stal
     }
 }
